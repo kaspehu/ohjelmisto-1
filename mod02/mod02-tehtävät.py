@@ -89,7 +89,6 @@ random_number7 = random.randint(1, 6)
 print(f"Kolminumeroinen koodi: {random_number1}{random_number2}{random_number3}")
 print(f"Nelinumeroinen koodi: {random_number4}{random_number5}{random_number6}{random_number7}")
 
-#Tein tän niin yksinkertaisesti kun sielu sietää...
 
 
 
