@@ -1,6 +1,6 @@
 # Tehtävä 3.
 
-luku = [] # Määritetään tyhjä muuttuja myöhempää varten
+luku = [] # Määritetään tyhjä lista myöhempää varten
 
 while app_running:
     user_input = input("Anna kokonaisluku tai lopeta painamalla enter: ")
