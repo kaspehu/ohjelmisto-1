@@ -1,5 +1,7 @@
 # Tehtävä 3.
 
+app_running = True
+
 luku = [] # Määritetään tyhjä lista myöhempää varten
 
 while app_running:
